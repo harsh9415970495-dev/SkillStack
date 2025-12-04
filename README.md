@@ -79,7 +79,7 @@ build
 
 Set environment variable:
 
-VITE_API_BASE = https://your-backend-url.onrender.com
+VITE_API_BASE = "http://127.0.0.1:8000/"
 
 ✅ Backend (Render)
 
@@ -95,9 +95,6 @@ Environment Variables
 GEMINI_API_KEY = your_key_here
 
 📦 Installation & Running Locally
-🔹 Clone Repository
-git clone https://github.com/adarsh7203/SkillFolio.git
-cd SkillFolio
 
 🖥️ Backend Setup
 cd backend

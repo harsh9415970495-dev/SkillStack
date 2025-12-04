@@ -81,7 +81,7 @@ export function HomePage({ onNavigate }) {
       <footer className="w-full py-6 mt-20 mb-6 border-t border-gray-200 bg-blue-600 text-white">
         <div className="flex items-center justify-center gap-2">
           <a
-            href="https://github.com/harsh9415970495-dev/SkillsStack"
+            href="https://github.com/harsh9415970495-dev/SkillStack"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 hover:text-gray-200 transition"
