@@ -6,7 +6,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from routes.ai_routes import router as ai_router
 from routes.pdf_routes import router as pdf_router
 
-app = FastAPI(title="Skillfolio Backend")
+app = FastAPI(title="SkillStack Backend")
 
 app.add_middleware(
     CORSMiddleware,

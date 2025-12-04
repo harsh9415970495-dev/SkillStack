@@ -171,9 +171,6 @@ Use this in Swagger UI:
 Pull requests are welcome.
 For major changes, open an issue first.
 
-📄 License
-
-MIT License © 2025 Adarsh Gupta Abhinav Pandey Aradhya Gupta
 
 ⭐ Show Support
 
